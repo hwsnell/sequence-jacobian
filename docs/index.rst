@@ -61,3 +61,10 @@ The current development team for SSJ is
 * Matthew Rognlie
 
 with contributions also from Adrien Auclert, Martin Souchier, and Ludwig Straub.
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+    index
+    tutorials/rbc.ipynb
