@@ -11,7 +11,8 @@ Requirements and installation
 SSJ runs on Python 3.7 or newer, and requires Python's core numerical libraries (NumPy, SciPy, Numba). We recommend that you first install the latest `Anaconda <https://www.anaconda.com/distribution/>`_ distribution. This includes all of the packages and tools that you will need to run our code. 
 
 To install SSJ, open a terminal and type
-.. code-block:: python
+
+.. code-block:: bash
 
     pip install sequence-jacobian
 
@@ -20,7 +21,7 @@ To install SSJ, open a terminal and type
 Using SSJ: introductory notebooks
 -----------------------
 
-To learn how to use the toolkit, it's best to work through our introductory Jupyter notebooks, which show how SSJ can be used to represent and solve various models. We recommend working through the notebooks in the order listed below. `Click here to download all notebooks as a zip<https://github.com/shade-econ/sequence-jacobian/raw/master/notebooks/notebooks.zip>`_.
+To learn how to use the toolkit, it's best to work through our introductory Jupyter notebooks, which show how SSJ can be used to represent and solve various models. We recommend working through the notebooks in the order listed below. `Click here to download all notebooks as a zip <https://github.com/shade-econ/sequence-jacobian/raw/master/notebooks/notebooks.zip>`_.
 
 * `RBC <https://github.com/shade-econ/sequence-jacobian/blob/master/notebooks/rbc.ipynb>`_
     * represent macro models as collections of blocks (DAG)
