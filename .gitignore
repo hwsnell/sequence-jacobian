@@ -14,3 +14,5 @@ wiki/
 *.egg-info/
 
 dist/
+
+ignored_files/
